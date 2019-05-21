@@ -1,7 +1,7 @@
 const tasks = [
     {
         task: 'Create a static example of your todo list',
-        completed: true
+        completed: false
     },
     {
         task: 'TDD your template function',
